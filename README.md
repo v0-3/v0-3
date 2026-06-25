@@ -3,10 +3,7 @@
 <p align="center">
   <a href="https://v03.io/">Portfolio</a> •
   <a href="mailto:nonfatmatcha@gmail.com">Email</a>
+  i code sometimes
 </p>
 
 ---
-
-## 🚀 About Me
-
-i code sometimes
