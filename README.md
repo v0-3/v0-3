@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://v03.io/">Portfolio</a> •
-  <a href="mailto:nonfatmatcha@gmail.com">Email</a>
+  <a href="mailto:nonfatmatcha@gmail.com">Email</a><br>
   i code sometimes
 </p>
 
